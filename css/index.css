@@ -1,0 +1,7 @@
+.foto {
+    margin-top: 5em;
+}
+.foto img {
+    width: 15%;
+    border: 3px solid #000000;
+}
